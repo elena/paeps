@@ -1,6 +1,6 @@
 # Proposed PAUEP ideas 
 
-## A documentary basis for Python Advocacy and Community in Australia
+*A documentary basis for Python Advocacy and Community in Australia*
 
 # What is a “PAUEP”?
 

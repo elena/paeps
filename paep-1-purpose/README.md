@@ -13,19 +13,22 @@ Each PAEP will be designated a positive integer number in consecutive order, per
 
 ## Proposed PAEP metadata
 
-* PAEP number: `int` (per PAEP register)
-* Title: short text
+```
+PAEP number: `int` (per PAEP register)
+Title: short text
 
-* Team: person/people
-* Shepherd: person/people
+Team: person/people
+Shepherd: person/people
 
-* Created: `date`
-* Resolved: `date`
+Created: `date`
+Resolved: `date`
 
-* State: `state`
-* Requires: `PAEP`
-* Replaces: `PAEP`
-* Superceded-by: `PAEP`
+State: `state`
+Requires: `PAEP`
+Replaces: `PAEP`
+Superceded-by: `PAEP`
+```
+
 
 The PAEP shepherd is responsible for building consensus within the community and documenting dissenting opinions.
 

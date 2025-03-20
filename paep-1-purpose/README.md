@@ -21,14 +21,16 @@ Team: person/people
 Shepherd: person/people
 
 Created: `date`
-Resolved: `date`
+Resolved: `date` | None
 
 State: `state`
-Requires: `PAEP`
-Replaces: `PAEP`
-Superceded-by: `PAEP`
+
+Requires: `PAEP` | None
+Replaces: `PAEP` | None
+Superceded-by: `PAEP` | None
 ```
 
+`state` is process PEAP state, see section: PEAP states.
 
 The PAEP shepherd is responsible for building consensus within the community and documenting dissenting opinions.
 
@@ -41,11 +43,13 @@ The PAEP shepherd is responsible for building consensus within the community and
 	* Provisional
 	* Final
 
-**Resolved**
+**Not Open**
 * Active
 * Rejected
 * Withdrawn
 * Deferred
+* Replaces
+* Superceded-by
 
 
 Not all PAEPs will be accepted. There is no prescribed timeline for PAEP processing.

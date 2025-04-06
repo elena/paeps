@@ -88,6 +88,10 @@ collectively here:
 * "in Australia": this phrasing is used when the clause is specifically intended to refer to
   jurisdictions covered by the laws of the Commonwealth of Australia (since Python Australia
   as a legal entity will be incorporated within that regulatory framework).
+* "Python related": this phrasing is used to make it clear that the organisation may be
+  involved in supporting events that aren't specifically about Python itself, but instead
+  are about fields of activity where Python naturally features heavily due to a
+  significant presence in that field.
 * "encouraging and facilitating": these are the potential activities which are considered
   to most directly fulfil the essential mission of the organisation. When activity in
   these areas seems lacking, the organisation should be taking active steps to understand
@@ -154,6 +158,10 @@ physically hosting the meetup to assume corporate liability.
 A formally incorporated legal entity has more options available for helping out in this
 area than any informal group ever will (and some of those additional options are discussed
 in more detail when reviewing the later activity clauses).
+
+"Community workshops" are specifically called out so that encouraging and facilitating
+events like Django Girls and Software Carpentry workshops is explicitly considered to be
+in scope for the organisation.
 
 ### The "Python adoption" activity clause
 

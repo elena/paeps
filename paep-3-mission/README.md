@@ -117,7 +117,7 @@ The first paragraph of the mission statement reads:
 > Australian community of Python programmers.
 
 This gives the essence of the overall mission that drives all of the more specific
-activite clauses: supporting a diverse "Australian" community of Python programmers.
+activity clauses: supporting a diverse "Australian" community of Python programmers.
 
 It is a near direct quote of the second half of the PSF's own essential mission statement
 (with the word "Australian" replacing the text "and international" from the PSF original):
@@ -257,7 +257,7 @@ Most of the activity clauses are naturally quite inward looking, since the focus
 and the next one are both variations on the same idea of "Don't be too insular".
 
 The Python community is global, and this clause is intended to act as a reminder to
-look beyond Australian shores for inspiration and for potential opportunties for
+look beyond Australian shores for inspiration and for potential opportunities for
 engagement and collaboration.
 
 The organisational purpose of this clause is to explicitly bring relationship
@@ -399,7 +399,7 @@ The draft mission statement intentionally echoes several elements of the Python 
 Foundation's own mission statement, and we want to make it clear that those similarities are
 intentional rather than accidental.
 
-However, we also don't want to create the impression that a formal affiliation or endorcement
+However, we also don't want to create the impression that a formal affiliation or endorsement
 exists between the two organisations, as the references to "Python" and the "Python Software
 Foundation" in a mission statement are purely nominative ones.
 

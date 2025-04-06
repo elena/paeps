@@ -62,7 +62,7 @@ Australian entity and the US-based Python Software Foundation explicit. The goal
 the two organisations align (since Python Australia's mission statement is intentionally
 designed that way), but they're not affiliated in any legal governance sense.
 
-This structure presents an initial "essential" mission statement, following by several
+This structure presents an initial "essential" mission statement, followed by several
 more detailed "activity" clauses which are intended to provide a clear shared understanding
 of what activities are considered to be reasonable uses of the organisation's resources.
 
@@ -182,7 +182,7 @@ around a particular piece of technology is to promote general interest in that t
 at large, even amongst those that don't choose to become active community members.
 
 For this clause in particular, it's important to note that the promotional aspect applies
-to the organisational as a whole, not necessarily to any particular event.
+to the organisation as a whole, not necessarily to any particular event.
 It's also essential to note that "We promote Python" does *not* imply an attitude of
 "We denigrate the alternatives to Python". As the
 ["Culture of PyCon AU"](https://2024.pycon.org.au/about/culture/) summarises:
@@ -224,7 +224,7 @@ The fourth ("relationship management") activity clause reads:
 Another key question that helped provide the initial impetus behind creating a formal
 Python Australia organisation was:
 
-* How do we make it easier for organisers of local Python user groups find potential sponsors
+* How do we make it easier for organisers of local Python user groups to find potential sponsors
   and/or recurring venues for their meetup?
 
 Quite frequently, these arrangement are based on specific individuals within the local user
@@ -233,8 +233,7 @@ involved in the organisation of that user group.
 
 One of the goals of establishing a formal organisation is to help improve this situation
 such that some of these relations can be more formalised, such that local sponsorship and
-hosting agreements are able to continue even after the individuals that initially set them
-up and move on. A further goal is to attempt to broaden connections made with national
+hosting agreements are able to continue even after the individuals that initially set up these relationships, but have since moved on. A further goal is to attempt to broaden connections made with national
 (or multinational) organisations with offices in multiple locations to support their local
 Python user groups in multiple locations, not just the location where an initial connection
 is made.
@@ -333,7 +332,7 @@ the Board of the day feels it would be in the interests of their members to expr
 formal position (such as responding to a government request for public comment, or
 submitting a friend of the court brief in a potentially precedent setting or disrupting
 court case), any related will be free to focus on the specifics of the situation, rather
-than having to first debate whether or not holding and expression an official position
+than having to first debate whether or not holding and expressing an official position
 is within the scope of the organisation.
 
 Note: choosing to include this clause places constraints on the *kind* of legal

@@ -137,23 +137,23 @@ A few of the key questions that provided the initial impetus behind creating a f
 Python Australia organisation were:
 
 * How do we make it easier for potential Python user group organisers to start a
-  user group in areas that currently lack one?
-* How do we make it easier for organisers of existing user groups to keep their
-  user group going without burning themselves out?
-* How do we connect user group organisers with visiting potential speakers that are
-  in the area for their own reasons, but might be open to speaking at the local
-  user group?
-* How do we reduce the personal liability risk for organisers of user groups and
-  community workshops?
+  user group in Australian regions that currently lack one?
+* How do we make it easier for organisers of existing Australian user groups to
+  keep their user groups going without burning themselves out?
+* How do we connect user group organisers across Australia with visiting potential
+  speakers that are in the area for their own reasons, but might be open to speaking
+  at the local user group?
+* How do we reduce the personal liability risk for organisers of Python related
+  user groups and community workshops in Australia?
 
 It is these motivating questions that earned this clause the first position in the list
 of activity clauses, as without these considerations, it's unlikely that the idea of a
 formally constituted Python Australia organisation would have ever gained momentum.
 
 While an informal information sharing community with a decent public web presence could
-potentially help with the first two or three of these, the best such a group could offer
-for the last of these concerns is suggestions on how to work with the organisation
-physically hosting the meetup to assume corporate liability.
+potentially help with the first two or three of these questions, the best such a group
+could offer for the last of these concerns is suggestions on how to work with the
+organisation physically hosting the meetup to assume corporate liability.
 
 A formally incorporated legal entity has more options available for helping out in this
 area than any informal group ever will (and some of those additional options are discussed
@@ -192,7 +192,8 @@ It's also essential to note that "We promote Python" does *not* imply an attitud
 > This includes putdowns of users of other programming languages purely based on the
 > fact they don’t use Python.
 
-If anyone feels compelled to mock programming, they can freely mock Python
+If anyone feels compelled to mock programming, they can
+[freely mock Python](https://docs.python.org/3/library/unittest.mock.html)
 (pun fully intended and gleefully perpetrated).
 
 ### The "conference" activity clause
@@ -231,16 +232,18 @@ Quite frequently, these arrangement are based on specific individuals within the
 groups, which means they can falter if those individual change jobs, or stop being actively
 involved in the organisation of that user group.
 
-One of the goals of establishing a formal organisation is to help improve this situation
-such that some of these relations can be more formalised, such that local sponsorship and
-hosting agreements are able to continue even after the individuals that initially set up these relationships, but have since moved on. A further goal is to attempt to broaden connections made with national
-(or multinational) organisations with offices in multiple locations to support their local
-Python user groups in multiple locations, not just the location where an initial connection
-is made.
+One of the goals of establishing a formal organisation is to put more explicit structures
+in place to help maintain and grow these relationships, such that local sponsorship and
+hosting agreements are able to continue even after the individuals that initially set
+them up (on either side) have moved on.
+
+A further goal is to attempt to broaden connections made with national (or multinational)
+organisations with offices in multiple locations to support their local Python user groups
+in all of those locations, not just the location where an initial connection is made.
 
 In the other direction, there may be organisations that recognise the potential recruiting
 and knowledge transfer benefits of being more actively involved with their local Python
-community, but don't have anyone already on staff that can help them facilitate those
+community, but don't have anyone already on staff that can personally facilitate those
 connections. In such situations, it would be part of the mission of Python Australia to
 help those organisations establish the connections they may otherwise struggle to make.
 
@@ -331,17 +334,23 @@ The organisational purpose of this clause is help ensure that if a situation ari
 the Board of the day feels it would be in the interests of their members to express a
 formal position (such as responding to a government request for public comment, or
 submitting a friend of the court brief in a potentially precedent setting or disrupting
+<<<<<<< HEAD
 court case), any related will be free to focus on the specifics of the situation, rather
 than having to first debate whether or not holding and expressing an official position
 is within the scope of the organisation.
+=======
+court case), any related discussion will be free to focus on the specifics of the situation,
+rather than having to first debate whether or not holding and expressing an official
+position on *any* topic is within the scope of the organisation.
+>>>>>>> 4cb53c7 (Misc copyedits from my own review)
 
 Note: choosing to include this clause places constraints on the *kind* of legal
 entity that Python Australia can be under Australian regulations (most notably, it
-makes it *certain* that the organisation can't be considered a charity that accepts
-tax-deductible donations). As a result, the draft mission statement and the draft
-constitution need to be considered together (it's unlikely the organisation will
-be eligible for classification as a charity either way, but it's an aspect worth
-mentioning).
+makes it nearly *certain* that the organisation can't be considered a charity that
+accepts tax-deductible donations). As a result, the draft mission statement and the
+draft constitution need to be considered together (it's unlikely the organisation
+would be eligible for classification as a charity regardless, but it's an aspect
+worth mentioning).
 
 ### The "fundraising" activity clause
 
@@ -353,9 +362,9 @@ The ninth ("fundraising") activity clause reads:
 One of the most useful things that a formal legal entity can do that an ad hoc
 informal group can't is to help navigate the often labyrinthine processes of
 actually *receiving* sponsorship funds from large organisations. (Anyone
-that has navigated the process of adding Linux Australia to a corporate supplier
-management system in order to pay for a PyCon AU sponsorship is currently both
-nodding and shuddering).
+that has made it through the process of adding Linux Australia to a corporate
+supplier management system in order to pay for a PyCon AU sponsorship is currently
+both nodding and shuddering).
 
 Several of the other proposed organisational activities are also likely to be
 pursued more effectively if the organisation is able to put some concrete
@@ -376,8 +385,8 @@ The tenth ("service provision") activity clause reads:
 >   but is not limited to, operating a public website and social media presence.
 
 Similar to the fundraising clause, this is another pragmatic acknowledgement clause
-that could potentially go without saying, but we include so it doesn't *need* to go
-without saying.
+that could potentially go without saying, but we include it explicitly so it doesn't
+*need* to go without saying.
 
 The "This includes, but is not limited to ..." phrasing (with specific examples)
 is a way to ensure certain minimum service expectations are set, without having
@@ -394,14 +403,14 @@ The final organisational independence statement reads:
 > affiliated with the Python Software Foundation. However, this mission statement is intended to
 > be compatible with, and actively support, the global mission of the Python Software Foundation.
 
-The draft mission statement intentionally echoes several elements of the Python Software
-Foundation's own mission statement, and we want to make it clear that those similarities are
-intentional rather than accidental.
+The draft mission statement echoes several elements of the Python Software Foundation's own
+mission statement, and we want to make it clear that those similarities are intentional
+rather than accidental.
 
 However, we also don't want to create the impression that a formal affiliation or endorsement
 exists between the two organisations, as the references to "Python" and the "Python Software
-Foundation" in a mission statement are purely nominative ones.
+Foundation" in the draft mission statement are purely nominative ones.
 
-The statement aims to achieve both goals by explicitly stating the organisation's independence,
-disclaiming any formal affiliation, and only then expressing explicit support for the PSF's
-own mission.
+This final statement aims to achieve both goals by explicitly stating the organisation's
+independence, disclaiming any formal affiliation, and only then expressing explicit support
+for the PSF's own mission.

@@ -334,15 +334,9 @@ The organisational purpose of this clause is help ensure that if a situation ari
 the Board of the day feels it would be in the interests of their members to express a
 formal position (such as responding to a government request for public comment, or
 submitting a friend of the court brief in a potentially precedent setting or disrupting
-<<<<<<< HEAD
-court case), any related will be free to focus on the specifics of the situation, rather
-than having to first debate whether or not holding and expressing an official position
-is within the scope of the organisation.
-=======
 court case), any related discussion will be free to focus on the specifics of the situation,
 rather than having to first debate whether or not holding and expressing an official
 position on *any* topic is within the scope of the organisation.
->>>>>>> 4cb53c7 (Misc copyedits from my own review)
 
 Note: choosing to include this clause places constraints on the *kind* of legal
 entity that Python Australia can be under Australian regulations (most notably, it
